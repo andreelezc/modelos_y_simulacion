@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>iconos/Clear-128.png</file>
+    <file>iconos/001_home-128.png</file>
+    <file>iconos/6bcfb6649c.png</file>
+    <file>iconos/627249-delete3-512.png</file>
+    <file>iconos/678092-sign-add-128.png</file>
+    <file>iconos/btn-blue-arrow-left-512.png</file>
+    <file>iconos/cola.png</file>
+    <file>iconos/cropped-power-button-icon.png</file>
+    <file>iconos/edit-icon-11-256.png</file>
+    <file>iconos/error.png</file>
+    <file>iconos/export-3.png</file>
+    <file>iconos/multiple-users-silhouette.png</file>
+    <file>iconos/ok-icon-success-19.png</file>
+    <file>iconos/questionssvg-512.png</file>
+    <file>iconos/success.png</file>
+    <file>iconos/time.png</file>
+  </qresource>
+</RCC>
